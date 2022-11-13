@@ -1,8 +1,7 @@
 # Hi there, I'm Jacob! 👋
 <div align="left">
-      cool stats stuff
       <img src="https://github-readme-stats.vercel.app/api?username=jacobatan&show_icons=true&theme=radical"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobatan&layout=compact"/>
+<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobatan&layout=compact"/> -->
   
 <!--   <div>
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
